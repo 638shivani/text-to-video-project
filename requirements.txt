@@ -1,5 +1,6 @@
 streamlit
 torch
+torchvision
 diffusers
 transformers
 accelerate
@@ -10,3 +11,6 @@ imageio-ffmpeg
 numpy
 safetensors
 sentencepiece
+ftfy
+scipy
+opencv-python
