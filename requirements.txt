@@ -13,4 +13,4 @@ safetensors
 sentencepiece
 ftfy
 scipy
-opencv-python
+opencv-python-headless
