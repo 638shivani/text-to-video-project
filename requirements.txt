@@ -1,0 +1,12 @@
+streamlit
+torch
+diffusers
+transformers
+accelerate
+peft
+datasets
+imageio
+imageio-ffmpeg
+numpy
+safetensors
+sentencepiece
